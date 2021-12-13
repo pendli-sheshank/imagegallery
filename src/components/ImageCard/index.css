@@ -1,0 +1,9 @@
+.image-thumb {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+}
