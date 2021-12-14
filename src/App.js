@@ -1,11 +1,11 @@
 import "./App.css";
-import Gallery from "./components/Gallery/Gallery";
+import ImageCard from "./components/ImageCard";
 
 function App() {
   return (
     <div className="App">
-      <h1>Gallery</h1>
-      <Gallery />
+      <h1 className="heading">Gallery</h1>
+      <ImageCard />
     </div>
   );
 }
